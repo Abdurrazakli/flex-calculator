@@ -50,6 +50,7 @@ body {
     display: flex;
     max-width: 100%;
     flex-direction: row;
+
 }
 .btn{
     left: 0;
@@ -57,7 +58,7 @@ body {
     width: 25%;
     font-size: 3rem;
     background-color: #d8d9db;
-    border-color: black;
+    border: 1px black solid;
 }
 .clear{
     width: 50%;
